@@ -64,6 +64,7 @@ load_points = [
 
 ## ▶️ Execução
 ```
+from MultilayerElasticAnalysis import main
 df = main(main_points, n, Thickness, E, v, isbonded, load_points)
 df.to_excel("resultado_analise_elastica.xlsx", index=False)
 ```
