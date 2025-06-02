@@ -78,6 +78,5 @@ df.to_excel("resultado_analise_elastica.xlsx", index=False)
 Huang, Y. H. (2004). Pavement Analysis and Design. 2ª edição. Pearson Prentice Hall.
 
 ## 🧑‍💻 Autor
-Eng. Vinicius Coldebella Camillo
-![FOTO PERFIL ](https://github.com/user-attachments/assets/2c8ca216-759a-4547-a602-29fb4535af99)
+Eng. Vinicius Coldebella Camillo: www.linkedin.com/in/vinicius-coldebella-camillo-36956619b
 
