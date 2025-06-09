@@ -1,7 +1,5 @@
 # Análise Elástica Multicamadas com Múltiplas Cargas em pavimentos
 
-#  Análise Elástica Multicamadas com Múltiplas Cargas
-
 Este projeto realiza o cálculo de **tensões** e **deformações** em sistemas multicamadas de pavimentos utilizando o modelo elástico linear, conforme abordado no livro **Pavement Analysis and Design** de **Yang H. Huang**.
 
 Suporta múlticas cargas circulares atuando sobre a superfície e retorna os resultados convertidos para coordenadas cartesianas.
